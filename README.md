@@ -28,3 +28,5 @@ DataFrames
   pour chaque journée, le nombre de journée consécutives maximales, la saison, et la date (jour_timestamp, mois, année)
 - Nombre de jour consécutifs sans pluies (consecutive dry day): données, sous forme de DataFrame, contenant  l'accumulation totale
   pour chaque journée (0.0), le nombre de journée consécutives maximales, la saison, et la date (jour_timestamp, mois, année)
+
+Ouvrir les fichier .ipynb pour le code des différentes stations, et .csv pour les données tests (une seule année) des différentes stations 
